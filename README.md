@@ -1,2 +1,3 @@
-# CV
-Cv create with HTML / CSS / Js
+### CV created with HTML CSS and Javascript ###
+
+
